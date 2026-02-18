@@ -27,19 +27,19 @@ The focus of this project is to delve into the realm of international debt analy
     ├── README.md          <- README for using this project.
     ├── query              <- Code of the DB creation and queries.
     │   │
-    │   └── pizza_sales_db.sql       <- DB creation.
+    │   └── queried_data             <- DB creation.
     │   └── query.sql                <- Final queries.
 
     ├── reports            <- Folder containing the final reports/results of this project.
     │   │
-    │   └── Pizza_Sales_Report.pdf   <- Final analysis report in PDF.
-    │   └── query_report.pdf         <- Final query report in PDF for verifying data.
+    │   └──  IDS_queries_Report.docx                       <- Final analysis report in PDF.
+    │   └── International Debt Statistics 2022.pdf         <- Final query report in PDF for verifying data.
     │   
     ├── src                <- Source for this project.
         │
         ├── data           <- Datasets used and collected for this project.
         │   
-        ├── pizza_sales_images       <- Additional images for Dashboards.
+        ├── dashboard_images       <- Additional images for Dashboards.
         │
         ├── data_dictionary.csv      <- Data Dictionary for the dataset.
 
@@ -117,8 +117,5 @@ I am thrilled to share my International Debt Analysis Portfolio Project with you
 
 ## Author
 - <ins><b>©2026 Niveditha Velaga. All rights reserved</b></ins>
-- <b>[LinkedIn](www.linkedin.com/in/velaganiveditha)</b>
+- <b>[LinkedIn](https://www.linkedin.com/in/velaga-niveditha-020b762a6/)</b>
 - <b>[New Kaggle](https://www.kaggle.com/tagg27)</b> 
-
-## Contact me!
-If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Tushar Aggarwal](mailto:info@tushar-aggarwal.com). We would love to hear from you!
