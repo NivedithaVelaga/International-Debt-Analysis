@@ -18,7 +18,6 @@ The focus of this project is to delve into the realm of international debt analy
 
 ## **Reports**
 #### [Interactive report on Novapro]()
-#### [Interactive report on Tushar-Aggarwal.com]()
 #### [SQL Queries Report]()
 
 ## Project Structure
@@ -52,7 +51,7 @@ To ensure the reliability and accuracy of my analysis, I sourced the data from r
 
 ### Dataset Overview
 - [IMF Source :](https://www.imf.org/external/datamapper/datasets/GDD)
-- [Source 2 :](https://www.imf.org/external/datamapper/datasets/GDD)
+
 
 
 **Data Cleaning and Preprocessing**
