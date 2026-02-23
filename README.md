@@ -90,7 +90,7 @@ I am thrilled to share my International Debt Analysis Portfolio Project with you
 
 ## Key Questions Explored
 
-1. **TWho do we owe all this money to?**
+1. **Whom do we owe all this money to?**
 2. **Can a debt load of three times GDP ever be sustainable?**
 3. **Is ther any responsible way to reduce this debt?**
 4. **What could go wrong if we can't**
